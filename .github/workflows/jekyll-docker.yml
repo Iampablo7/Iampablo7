@@ -1,0 +1,73 @@
+<!doctor html>
+<html>
+  <head>
+   <title>information </title>
+  
+   <style>  
+   #table (border: 2px;
+   )
+   
+   
+        </style>
+  
+  </head>
+  <body>
+   <h1>Hello world </h1>
+     
+     <Table id="table">
+    <tr>
+       <th>Name</th>
+       <th>Email</th>
+       <th>Number </th>
+     </tr>
+     
+   <tr>
+     <td>Peter</td>
+     <td> peter56@gmail.com</td>
+     <td> 07057845638 </td>
+  <tr>
+  
+ <tr>
+ <td> michael </td>
+ <td>Mick007@gmail.com</td>
+  <td> 08067789065</td>
+  
+   <tr>
+    <td>john </td>
+    <td>john80@gmail</td>
+    <td>07066388094</td>
+    </tr>
+    
+    <tr>
+      <td>Ernest </td>
+      <td> Pabloernest481@gmail.com  </td>
+      <td> 07066264095 </td>
+      </tr>
+      </Table>
+      
+     
+     
+     
+     
+     
+  
+  
+  
+  
+  
+  
+  
+  </body>
+
+
+
+
+
+
+
+
+
+
+
+</html>
+    
